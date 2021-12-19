@@ -10,7 +10,9 @@ On arrive donc a reconstituer les partis politiques. J'ai essayé de les aligner
 
 On note que LREM, les républicains, et la gauche ont sont peu étalés, mis à part certains députés éloignés. EELV est globalement proche de LREM, malgré certains écarts : notemment Delphine Batho assez proche de la gauche (assez cohérent). UDR et le rassemblement national sont très étalés (attention, le RN n'a que quelques députés à l'AN).
 
-Les résultats sont exposés dans les fichiers html :
+La taille des points correspond à la présence des députés à l'AN : si les députés sont très présents (et ont voté à un grand nombre de scrutins), leur point sera plus grand. On peut voir le nombre de votes auquel chaque député a participé en cliquant sur le point correspondant.
+
+Les résultats sont exposés dans les fichiers html (interactifs !) :
 - [La représentation 2D classique](https://htmlpreview.github.io/?https://github.com/Mathis-A/reduction-dimension-politique/blob/master/embedding_parti.html)
 - [La représentation avec les métiers](https://htmlpreview.github.io/?https://github.com/Mathis-A/reduction-dimension-politique/blob/master/embedding_metier.html)
   - Permet de voir les différents métiers au sein des groupes politiques (la représentation n'est pas forcément bien choisie)
