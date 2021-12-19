@@ -2,7 +2,7 @@
 
 ### Est-ce que les députés votent comme leur groupe politique ?
 
-Pour répondre à cette question, j'ai utilisé les scrutins de l'assemblée nationale depuis les élections législatives de 2017 jusqu'à décembre 2021 (environ 4000 votes). En réduisant ce nombre important de dimensions au plan, on peut reconstituer les groupes politiques, les écarts (et rapprochements) entre les groupes ainsi que les écarts de députés précis par rapport à leur famille politique.
+Pour répondre à cette question, j'ai utilisé les scrutins de l'assemblée nationale depuis les élections législatives de 2017 jusqu'à décembre 2021 (environ 4000 votes). On peut calculer la similarité des votes entre deux députés en comptant le pourcentage de votes concordants de ces deux députés. A partir de la matrice de similarité, on peut utiliser un algorithme d'embedding ("plongement") pour positionner les députés dans le plan XY. On peut ensuite constater visuellement les groupes politiques, les écarts (et rapprochements) entre ces groupes ainsi que les écarts entre des députés précis et leur famille politique.
 
 ### Résultats
 
